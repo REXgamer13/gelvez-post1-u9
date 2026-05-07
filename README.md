@@ -156,7 +156,7 @@ Las pruebas unitarias se ejecutan exitosamente con Maven. Cada prueba valida:
 ```
 **Pruebas en verde**
 
-![Pruebas en Verde](img_Test_pruebas.png)
+![Pruebas en Verde](img_Test_Pruebas.png)
 
 ## 🔧 Configuración de la Aplicación
 
